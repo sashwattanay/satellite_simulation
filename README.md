@@ -7,6 +7,7 @@ around the Earth or an object falling on the Earth. Anybody with a personal comp
 ========================
 
 HOW TO USE THE CODE IN YOUR BROWSER (if you don't have Mathematica installed)?
+
 1. Make a free account on https://www.wolframcloud.com/ and log into it.
 2. Open a notebook (standard Wolfram notebook) after logging in.
 3. Copy all the code (text) inside the file satellite_simulation_better_version_script_wolfram_cloud.txt on this Git repo and paste it into the notebook that you created in the previous step.
@@ -15,6 +16,7 @@ HOW TO USE THE CODE IN YOUR BROWSER (if you don't have Mathematica installed)?
 ============
 
 HOW TO RUN THE CODE (if you have Mathematica installed)?
+
 Just download the file satellite_simulation_better_version.nb, and run it by hitting Evaluation --> Evaluate Notebook.
 
 =======================
