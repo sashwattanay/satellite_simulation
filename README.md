@@ -1,5 +1,7 @@
 # satellite_simulation
-Wolfram Mathematica code that simulates a falling satellite in Earth's atmosphere (educational purpose)
+Wolfram Mathematica code that simulates a falling satellite in Earth's atmosphere (educational purpose).
+
+See this YouTube tutorial at https://youtu.be/K8ms_4SJh9Q to get an overall idea about what to expect. The video is made with a somewhat less sophisticated code.
 
 This is for high school and beginning physics students (or even physics laymen who are interested in physics). The code here simulates a satellite revolving 
 around the Earth or an object falling on the Earth. Anybody with a personal computer and an internet connection can do these simulations.
@@ -18,7 +20,3 @@ HOW TO USE THE CODE IN YOUR BROWSER (if you don't have Mathematica installed)?
 HOW TO RUN THE CODE (if you have Mathematica installed)?
 
 Just download the file satellite_simulation_better_version.nb, and run it by hitting Evaluation --> Evaluate Notebook.
-
-=======================
-
-Also, see this YouTube tutorial at https://youtu.be/K8ms_4SJh9Q to get an overall idea about what to expect. The video is made with a less sophisticated code.
